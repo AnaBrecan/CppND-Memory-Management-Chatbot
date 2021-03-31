@@ -50,4 +50,4 @@ public:
     wxBitmap *GetImageFromChatbot();
 };
 
-#endif /* CHATLOGIC_H_ */ */
+#endif /* CHATLOGIC_H_ */
